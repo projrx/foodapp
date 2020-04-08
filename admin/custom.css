@@ -1,0 +1,39 @@
+
+
+.myheader{
+	background: #ff8d00;
+	color: #fff;
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	z-index: 999999;
+}
+
+.color{
+	color: #ff8d00;
+}
+
+.cir-white{
+	color:#fff;
+	font-size: 18px;
+}
+
+.riderimg{
+	width: 60px;
+	height: 50px;
+	border: 1px solid #ff8d00;
+	border-radius: 10%;
+}
+
+.riderow{
+	padding-top: 10px; 
+	padding-bottom: 5px; 
+	border-bottom: 1px solid black;
+}
+
+
+.neworder{
+	padding:20px;
+	border:1px solid orange;
+
+}

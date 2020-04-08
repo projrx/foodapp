@@ -1,0 +1,52 @@
+Food Delivery Management Portal Features
+Summary:
+	Create a portal that allow the end users (Customers) to View and Order the Food items and Restaurants Deals. Admin and Restaurants will manage the deals and orders. Ordered Food and deals will be delivered on customer doorstep by Delivery Riders. Riders will be managed by the Admin of the Website and Application.
+
+Technical Details:
+Main Website: 
+Link and manage overall system portal and link Admin, Restaurants, Riders and End-Customers together.
+Mobile Application: 
+Application Development for ease of Users and Multiple Functionality.
+
+Requirements and Functionality:
+* Administrator (Top Level Manager, Single Account)
+1. Manage Restaurants Account.
+2. Manage the Customers and Customers Orders.
+3. Manage and Track the Riders on delivery.
+
+* Restaurants (Managed by Administrators, Multiple Accounts)
+1. Add and Manage the Food Items and Food Deals.
+2. Can View the and Confirm the Orders by Customers.
+
+* Riders ((Managed by Administrators, Multiple Accounts)
+1. Admin will have access to create and remove the Riders.
+2. Riders will Deliver the Food Item assigned by the Admin.
+3. Location of Rider and Food Item can be tracked by Admin.(opt)
+
+* Customers (Can Create Account, Sign Up and Login)
+1. Can View all the Food Items and Deals Posted by the Restaurants.
+2. Can Order Food Products by Creating an Account.
+3. Will Get alert when order food is at door step.
+4. Confirm the Food has been Delivered.
+
+(+) All the Orders and Orders History by Restaurant, Rider and Customers will be recorded and invoices can be generated based upon the Order.
+Food Delivery Portal Budget & Time Duration
+
+Budget 1:
+	Full Management Portal.
+	Except:	Real Time Map Location of Rider.
+	Price:		Rs. 70,000/-
+	Time Period:	2 Weeks.
+
+Budget 2:
+	Full Management Portal.
+	Including:  	Real Time Map Location of Rider.
+	Price:		Rs. 95,000/-
+	Time Period:	3 Weeks.
+
+
+(+) All Prices Mentioned Above includes Domain and Hosting Expences.
+
+*Real Time Live Map Location Tracking depends on several terms like Google Map API, Device GPS,  Network Connectivity, Mobile OS/Browser and Data Servers. So 100% Location Tracking Accuracy is not Guaranteed.
+
+  

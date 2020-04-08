@@ -73,7 +73,7 @@
 				<tr>
 					<td colspan="2">
 						<br>
-						<a  href="riders.php" name="" class="btn mybtn">Sign In </a>
+						<a  href="home.php" name="" class="btn mybtn">Sign In </a>
 					</td>
 				</tr>
 			</table>

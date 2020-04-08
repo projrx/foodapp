@@ -12,6 +12,9 @@
 			text-align: center;
 			border: 0px solid red !important
 		}
+		.table2{
+			width: 100%;
+		}
 		.table2 tr , .table2 td{
 			padding-top: 10px;
 			padding-bottom: 10px;

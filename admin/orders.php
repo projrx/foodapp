@@ -12,6 +12,9 @@
 			text-align: center;
 			border: 0px solid red !important
 		}
+		.table2{
+			width: 100%
+		}
 		.table2 tr , .table2 td{
 			padding-top: 10px;
 			padding-bottom: 10px;
@@ -47,7 +50,7 @@
           Pending Orders:
         </a>
       </div>
-      <div id="collapseOne" class="collapse show" data-parent="#accordion">
+      <div id="collapseOne" class="collapse " data-parent="#accordion">
         <div class="card-body">
           
 
@@ -57,17 +60,35 @@
 			<tr class="riderow">
 				<td style="max-width:;">
 				 <span> Order# </span><br> 
-				 <span> 9908 </span> 
+				 <span> 9009 </span> 
 				</td>
 				<td style="width: 60%">
 				<div style="text-align: left;">
 					<a href="assignorder.php" ><span style="font-size: 18px;"> Order Name </span> </a><br>
-					<span>Full Address, Area, City</span>
+					<span>New Address of Order, Area, City</span>
 				</div>
 				</td>
 				<td style="max-width:;">
 				 <span> Price: </span><br> 
 				 <span> Rs. 10,500/- </span> 
+				</td>
+			</tr>
+
+
+			<tr class="riderow">
+				<td style="max-width:;">
+				 <span> Order# </span><br> 
+				 <span> 9908 </span> 
+				</td>
+				<td style="width: 60%">
+				<div style="text-align: left;">
+					<a href="assignorder.php" ><span style="font-size: 18px;">Another Order Name </span> </a><br>
+					<span>Full Address, Area, City</span>
+				</div>
+				</td>
+				<td style="max-width:;">
+				 <span> Price: </span><br> 
+				 <span> Rs. 500/- </span> 
 				</td>
 			</tr>
 
@@ -88,7 +109,7 @@
         <span style="float: right;" ><i class="icon-road"> </i></span> EnRoute Orders 
       </a>
       </div>
-      <div id="collapseTwo" class="collapse" data-parent="#accordion">
+      <div id="collapseTwo" class="collapse show" data-parent="#accordion">
                <div class="card-body">
 
 		<table class="table2 " style="padding: 1px !important;">
@@ -100,7 +121,7 @@
 				</td>
 				<td style="width: 60%">
 				<div style="text-align: left;">
-					<a href="vieworder.php" ><span style="font-size: 18px;">Complete Order Name </span> </a><br>
+					<a href="vieworder.php" ><span style="font-size: 18px;">New Enroute Order </span> </a><br>
 					<span> Rider: <a href="rider.php">New Rider </a> </span>
 				</div>
 				</td>
@@ -128,7 +149,7 @@
 				</td>
 				<td style="max-width:;">
 				 <span> Price: </span><br> 
-				 <span> Rs. 10,500/- </span> 
+				 <span> Rs. 5,0	00/- </span> 
 				</td>
 			</tr>
 			<tr>
@@ -158,6 +179,81 @@
 
 
 		<table class="table2 " style="padding: 1px !important;">
+
+			<tr class="riderow">
+				<td style="max-width:;">
+				 <span> Order# </span><br> 
+				 <span> 9908 </span> 
+				</td>
+				<td style="width: 70%">
+				<div style="text-align: left;">
+					<a href="vieworder.php" ><span style="font-size: 18px;">Completed Order </span> </a><br>
+					<span> Full Complete Address,  <a href="rider.php">New Rider </a> </span><br>
+
+				 <span> Price: </span>
+				 <span> Rs. 10,500/- </span> 
+
+				</div>
+				</td>
+				<td style="max-width:;">
+					<i style="color: orange" class="icon-ok-sign"></i> 
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3"><span> Started: 03-05 15:53:40  | Completed: 03-05 15:53:40  </span>
+				</td> 
+			</tr>
+
+
+			<tr class="riderow">
+				<td style="max-width:;">
+				 <span> Order# </span><br> 
+				 <span> 9908 </span> 
+				</td>
+				<td style="width: 70%">
+				<div style="text-align: left;">
+					<a href="vieworder.php" ><span style="font-size: 18px;">Another Order </span> </a><br>
+					<span> Full Complete Address,  <a href="rider.php">New Rider </a> </span><br>
+
+				 <span> Price: </span>
+				 <span> Rs. 1,000/- </span> 
+
+				</div>
+				</td>
+				<td style="max-width:;">
+					<i style="color: orange" class="icon-ok-sign"></i> 
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3"><span> Started: 03-05 15:53:40  | Completed: 03-05 15:53:40  </span>
+				</td> 
+			</tr>
+
+
+			<tr class="riderow">
+				<td style="max-width:;">
+				 <span> Order# </span><br> 
+				 <span> 9908 </span> 
+				</td>
+				<td style="width: 70%">
+				<div style="text-align: left;">
+					<a href="vieworder.php" ><span style="font-size: 18px;">Completed Orders Name </span> </a><br>
+					<span> Full Complete Address,  <a href="rider.php">New Rider </a> </span><br>
+
+				 <span> Price: </span>
+				 <span> Rs. 6,500/- </span> 
+
+				</div>
+				</td>
+				<td style="max-width:;">
+					<i style="color: orange" class="icon-ok-sign"></i> 
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3"><span> Started: 03-05 15:53:40  | Completed: 03-05 15:53:40  </span>
+				</td> 
+			</tr>
+
 
 			<tr class="riderow">
 				<td style="max-width:;">

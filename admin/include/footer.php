@@ -4,6 +4,11 @@
 			<div class="row">
 				<div class=" footercol" style="background:;">
 					<center>
+					<a class="fota" href="home.php"><i class="icon-home ficon"></i> Home </a> 
+					</center>
+				</div>
+				<div class=" footercol" style="background:;">
+					<center>
 					<a class="fota" href="orders.php"><i class="icon-clipboard-list ficon"></i> Orders </a> 
 					</center>
 				</div>
@@ -31,19 +36,19 @@
 		.ficon{
 			margin-top: 15px;
 			color: #fff;
-			font-size: 25px;
+			font-size: 20px;
 		}
 		
 		.fota{
-			margin-top: 15px;
+			margin-top: 18px;
 			color: #fff;
-			font-size: 25px;
+			font-size: 22px;
 		}
 		
 		.footercol{
-			min-height: 70px;
-			width: 49%;
-			max-width: 50%;
+			min-height: 65px;
+			width: 33%;
+			max-width: 33.3%;
 			position: relative;
 			border:2px solid #fff;
 			border-bottom: 0px;

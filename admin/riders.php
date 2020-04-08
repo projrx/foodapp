@@ -33,9 +33,13 @@
 
 	<!-- Document Wrapper
 	============================================= -->
-	<div class="container">
+	<div class="container" >
 
+		<span class="color" style="font-size: 25px;float: right;"><a href="newrider.php"> <i  class="icon-plus color"></i> </a></span>
 		<span style="font-size: 25px;"> Riders: </span>
+
+		<br>
+		<br>
 		<table class="table2 " style="padding: 1px !important;">
 
 			<tr class="riderow">

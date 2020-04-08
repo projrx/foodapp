@@ -16,6 +16,7 @@
 			padding-top: 10px;
 			padding-bottom: 10px;
 			padding-right: 10px;
+			text-align: left;
 		}
 		
 
@@ -35,7 +36,7 @@
 
 	<div class="container" style="padding-left: 10px !important;    padding-right: 10px !important;">
 		<br>
-		<span style="font-size: 25px;">Assign Pending Order Detail: </span>
+		<span style="font-size: 25px;">View Order Detail: </span>
 		<br>
 		<br>
 		<div class="">
@@ -44,19 +45,59 @@
 
 			<center><span class="color" style="font-size: 18px;"> Order Summery: </span></center><br>
 
-			 <span class="color"> Order# </span> <span> 9908 </span> 
-			 <br>
-				<span class="color"> Order Name:  </span><span> Completed Order  - </span> </a> 
-				<br>
-				<span class="color"> Price: </span> <span> Rs. 10,500/- </span> 
-				<br>
-				<span class="color">Address: </span>	<span> Full Complete Address </span>
+			<table class="table2">
+				<tr>
+					<td> 
+			 <span class="color"> Order# </span> 
+			</td>
+			 <td>
+			  <span> 9908 </span>
+			  </td>
+			</tr>
+			<tr>
+				<td>
+				<span class="color"> Order Name:  </span>
+			</td><td>
+				<span> Completed Order  - </span> </a> 
+			</td>
+		</tr>
+		<tr>
+				<td>
+				<span class="color"> Price: </span> </td><td> <span> Rs. 10,500/- </span> </td>
+			</tr>
+			<tr>
+				<td>
+				<span class="color">Address: </span>
+				</td><td>	<span> Full Complete Address </span></td>
+			</tr>
+			<tr>
+				<td>
+				<span class="color"> Strated At: </span> </td><td> <span> 2020-03-05 15:53:40 </span> 
+				</td></tr>
+				<tr>
+					<td>
+				<span class="color">Deliverd At: </span> </td><td>	<span> 2020-03-05 14:20:40 </span>
+				</td>
+			</tr>
+				<tr>
+					<td>
+				<span class="color">Rider : </span> </td><td>	<span>Rider Name </span>
+				</td>
+			</tr>
+
+			</table>
+
 			</div>
 			</div>
 			</div>
 
 			<div class="">
 				<br>
+				<br>
+				<center>
+    	<a class="neworder" href="#.php"> <i class="icon-print"></i> Print </a>
+					
+				</center>
 				
 
 
@@ -66,35 +107,7 @@
 		<div>
 			<br>
 
-			<center><span class="color" style="font-size: 25px;"> Assign Rider: </span></center><br>
-			<table style="width: 100%;">
-				<tr>
-					<td style="text-align: left;">
-						<span>  Rider: </span>
-				</td>
-				<td style="text-align: left"> 
-
-					<select class="form-control">
-						<option> Rider Name 1</option>
-						<option> Full Rider Name 1</option>
-						<option> New Complete Rider 1</option>
-					</select>
-
-				</td>
-				<td><div style="min-width: 20px"></div></td>
-			</tr>
-			<tr>
-				<td colspan="3">
-					<center>
-						<br><br>
-					<a href="home.php" class="btn" style="background: orange;color: #fff;    padding: 15px 15px"> Send Delivery </a>
-
-						
-					</center>
-				</td>
-			</tr>
-
-		</table>
+		
 
 
 		</div>

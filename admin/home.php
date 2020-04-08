@@ -35,6 +35,8 @@
 	============================================= -->
 	<div class="container">
 
+		<div class=""  data-animate="pulse" data-delay="500" >
+
 		<span style="font-size: 25px;">Pending Orders: </span>
 		
 		<table class="table2">
@@ -84,6 +86,8 @@
 			</tr>
 
 		</table>
+	</div>
+	<div class="" data-speed="100"  data-animate="fadeInRight" data-delay="500" >
 
 
 		<span style="font-size: 25px;">Avaliable Riders: </span>
@@ -131,6 +135,7 @@
 		</table>
 
 
+</div>
 
 			
 	</div><!-- #wrapper end -->

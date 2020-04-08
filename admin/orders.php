@@ -36,7 +36,7 @@
 
 
 
-	<div class="container" style="padding-left: 10px !important;    padding-right: 10px !important;">
+	<div  class="container" style="padding-left: 10px !important;    padding-right: 10px !important;">
 		<br>
 		<span style="font-size: 25px;"> Orders: </span>
 		<br><br>
@@ -187,7 +187,7 @@
 				</td>
 				<td style="width: 70%">
 				<div style="text-align: left;">
-					<a href="vieworder.php" ><span style="font-size: 18px;">Completed Order </span> </a><br>
+					<a href="order.php" ><span style="font-size: 18px;">Completed Order </span> </a><br>
 					<span> Full Complete Address,  <a href="rider.php">New Rider </a> </span><br>
 
 				 <span> Price: </span>
@@ -212,8 +212,8 @@
 				</td>
 				<td style="width: 70%">
 				<div style="text-align: left;">
-					<a href="vieworder.php" ><span style="font-size: 18px;">Another Order </span> </a><br>
-					<span> Full Complete Address,  <a href="rider.php">New Rider </a> </span><br>
+					<a href="order.php" ><span style="font-size: 18px;">Another Order </span> </a><br>
+					<span> Full Complete Address,  <a href="riders.php">New Rider </a> </span><br>
 
 				 <span> Price: </span>
 				 <span> Rs. 1,000/- </span> 
@@ -237,8 +237,8 @@
 				</td>
 				<td style="width: 70%">
 				<div style="text-align: left;">
-					<a href="vieworder.php" ><span style="font-size: 18px;">Completed Orders Name </span> </a><br>
-					<span> Full Complete Address,  <a href="rider.php">New Rider </a> </span><br>
+					<a href="order.php" ><span style="font-size: 18px;">Completed Orders Name </span> </a><br>
+					<span> Full Complete Address,  <a href="riders.php">New Rider </a> </span><br>
 
 				 <span> Price: </span>
 				 <span> Rs. 6,500/- </span> 
@@ -262,8 +262,8 @@
 				</td>
 				<td style="width: 70%">
 				<div style="text-align: left;">
-					<a href="vieworder.php" ><span style="font-size: 18px;">Completed Order </span> </a><br>
-					<span> Full Complete Address,  <a href="rider.php">New Rider </a> </span><br>
+					<a href="order.php" ><span style="font-size: 18px;">Completed Order </span> </a><br>
+					<span> Full Complete Address,  <a href="riders.php">New Rider </a> </span><br>
 
 				 <span> Price: </span>
 				 <span> Rs. 10,500/- </span> 

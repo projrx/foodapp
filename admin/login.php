@@ -63,11 +63,11 @@
 			<table class="table" style="vertical-align: middle;">
 				<tr>
 					<td> <span> Username: </span> </td>
-					<td> <input class="form-control" type="" name=""> </td>
+					<td> <input type="username" class="form-control" type="" name=""> </td>
 				</tr>
 				<tr>
 					<td> <span> Password: </span> </td>
-					<td> <input class="form-control" type="" name=""> </td>
+					<td> <input type="Password" class="form-control" type="" name=""> </td>
 				</tr>
 
 				<tr>

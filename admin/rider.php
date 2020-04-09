@@ -38,29 +38,29 @@
 
 	<div  class="container" style="padding-left: 10px !important;    padding-right: 10px !important;">
 		<br>
-		<span style="font-size: 25px;">New Rider: </span>
+		<span style="font-size: 25px;">Rider Detail: </span>
 		<br>
 
 		<div class="form">
 			<table class="table2">
 				<tr>
 					<br>
-					<td> Rider Name: </td><td><input class="form-control" type="text" name=""></td><td><div style="min-width: 10px;"></td>
+					<td> Rider Name: </td><td>Rider Name Full Name</td>
 				</tr>
 
 				<tr>
 					
-					<td> Phone No: </td><td><input class="form-control" type="text" name=""></td><td></td>
+					<td> Phone No: </td><td>03001234567</td><td></td>
 				</tr>
 
 				<tr>
 					
-					<td>  Lisence No.: </td><td><input class="form-control" type="text" name=""></td><td></td>
+					<td>  Driving Lisence No.: </td><td>23454-99887-52</td><td></td>
 				</tr>
 
 				<tr>
 					
-					<td> Rider Imgae:</td><td colspan="1"> <input type="file" class="form-control" name=""> </td><td></td>
+					<td> Rider Imgae:</td><td colspan="1"> <img class="form-control" src="images/riders/dp1.png" style="width: 220px;height: 200px;"> </td><td></td>
 				</tr>
 
 
@@ -74,7 +74,7 @@
 				</tr>
 					<td colspan="3">
 	
-					<a href="riders.php" class="btn" style="background: orange;color: #fff;    padding: 15px 15px;" > Add Rider </a>
+					<a href="riders.php" class="btn" style="background: orange;color: #fff;    padding: 15px 15px;" > View All Riders </a>
 
 					</td>
 				</tr>

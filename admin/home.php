@@ -39,18 +39,18 @@
 
 		<span style="font-size: 25px;">Pending Orders: </span>
 		
-		<table class="table2">
-
+		
+		<table class="table2 " style="padding: 1px !important;">
 
 			<tr class="riderow">
 				<td style="max-width:;">
 				 <span> Order# </span><br> 
-				 <span> 9908 </span> 
+				 <span> 9009 </span> 
 				</td>
 				<td style="width: 60%">
 				<div style="text-align: left;">
-					<a href="vieworder.php" ><span style="font-size: 18px;">New Enroute Order </span> </a><br>
-					<span> Rider: <a href="rider.php">New Rider </a> </span>
+					<a href="assignorder.php" ><span style="font-size: 18px;"> Order Name </span> </a><br>
+					<span>New Address of Order, Area, City</span>
 				</div>
 				</td>
 				<td style="max-width:;">
@@ -58,9 +58,23 @@
 				 <span> Rs. 10,500/- </span> 
 				</td>
 			</tr>
-			<tr>
-				<td colspan="3"> Started At: 2020-03-05 15:53:40
-				</td> 
+
+
+			<tr class="riderow">
+				<td style="max-width:;">
+				 <span> Order# </span><br> 
+				 <span> 9908 </span> 
+				</td>
+				<td style="width: 60%">
+				<div style="text-align: left;">
+					<a href="assignorder.php" ><span style="font-size: 18px;">Another Order Name </span> </a><br>
+					<span>Full Address, Area, City</span>
+				</div>
+				</td>
+				<td style="max-width:;">
+				 <span> Price: </span><br> 
+				 <span> Rs. 500/- </span> 
+				</td>
 			</tr>
 
 
@@ -71,21 +85,23 @@
 				</td>
 				<td style="width: 60%">
 				<div style="text-align: left;">
-					<a href="vieworder.php" ><span style="font-size: 18px;">Complete Order Name </span> </a><br>
-					<span> Rider: <a href="rider.php">New Rider </a> </span>
+					<a href="assignorder.php" ><span style="font-size: 18px;">Pending Order Name </span> </a><br>
+					<span>Full Address, Area, City</span>
 				</div>
 				</td>
 				<td style="max-width:;">
 				 <span> Price: </span><br> 
-				 <span> Rs. 5,0	00/- </span> 
+				 <span> Rs. 5,000/- </span> 
 				</td>
 			</tr>
-			<tr>
-				<td colspan="3"> Started At: 2020-03-05 15:53:40
-				</td> 
-			</tr>
+
 
 		</table>
+
+
+
+
+
 	</div>
 	<div class="" data-speed="100"  data-animate="fadeInRight" data-delay="500" >
 

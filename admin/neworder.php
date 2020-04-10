@@ -55,7 +55,25 @@
 
 				<tr>
 					
+					<td> Invoice: </td><td><input class="form-control" type="file" name=""></td><td></td>
+				</tr>
+
+				<tr>
+					
 					<td>  Address: </td><td><input class="form-control" type="text" name=""></td><td></td>
+				</tr>
+
+				<tr>
+					
+					<td>  Zone: </td><td>
+
+						<select class="form-control">
+						<option> Zone Area - 5 AED</option>
+						<option> New Zone Area - 8 AED</option>
+						<option> Another Area - 6 AED</option>
+
+					</select>
+					</td><td></td>
 				</tr>
 
 				<tr>

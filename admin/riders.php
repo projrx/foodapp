@@ -77,7 +77,7 @@
 				</div>
 				</td>
 				<td>
-					<i style="color:#12d612" class="icon-dot-circle"> </i>
+					<i style="color:orange" class="icon-dot-circle"> </i>
 				</td>
 			</tr>
 
@@ -142,7 +142,7 @@
 				</div>
 				</td>
 				<td>
-					<i style="color:#909090" class="icon-dot-circle"> </i>
+					<i style="color:orange" class="icon-dot-circle"> </i>
 				</td>
 			</tr>
 

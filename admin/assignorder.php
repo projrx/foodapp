@@ -18,7 +18,6 @@
 			padding-right: 10px;
 		}
 		
-
 	</style>
 
 </head>
@@ -64,6 +63,11 @@
 
 
 		<div>
+
+			<br>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27197.220145527084!2d74.29954835239259!3d31.561149593640643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe794b7167799aa1a!2sChauburji!5e0!3m2!1sen!2s!4v1586354210910!5m2!1sen!2s" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+			
 			<br>
 
 			<center><span class="color" style="font-size: 25px;"> Assign Rider: </span></center><br>
